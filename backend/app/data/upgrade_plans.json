@@ -1,0 +1,20 @@
+[
+  {
+    "id": "plan-001",
+    "name": "Starter",
+    "summary": "Core scheduling, intake forms, and basic reminders for single-location clinics.",
+    "keywords": ["starter", "basic", "single location"]
+  },
+  {
+    "id": "plan-002",
+    "name": "Growth",
+    "summary": "Adds billing automation, claim workflows, and performance dashboards.",
+    "keywords": ["growth", "billing", "dashboard", "upgrade"]
+  },
+  {
+    "id": "plan-003",
+    "name": "Scale",
+    "summary": "Multi-location controls, advanced analytics, and API integrations.",
+    "keywords": ["scale", "enterprise", "multi-location", "integration"]
+  }
+]

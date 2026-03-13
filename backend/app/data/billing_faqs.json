@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bill-001",
+    "question": "Why was I billed twice?",
+    "answer": "Double charges usually occur when duplicate payment methods are active during renewal. We can credit one charge after verification via support.",
+    "tags": ["double charge", "invoice", "credit"]
+  },
+  {
+    "id": "bill-002",
+    "question": "Can I change my billing date?",
+    "answer": "Yes. Billing date alignment is available on annual and growth plans. A billing specialist must process the change.",
+    "tags": ["billing date", "renewal"]
+  },
+  {
+    "id": "bill-003",
+    "question": "How do refunds work?",
+    "answer": "Refund eligibility depends on plan and contract terms. We can create a billing escalation for account review.",
+    "tags": ["refund", "terms"]
+  },
+  {
+    "id": "bill-004",
+    "question": "What payment methods are accepted?",
+    "answer": "ACH and major credit cards are supported. Multi-location groups can request invoice billing.",
+    "tags": ["payment", "ach", "card"]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kb-001",
+    "title": "How to Resolve Appointment Sync Delays",
+    "summary": "Steps to fix delayed schedule sync between front desk and provider calendars.",
+    "content": "Check integration status, force a one-time sync, and validate timezone settings in Scheduling > Integrations."
+  },
+  {
+    "id": "kb-002",
+    "title": "Insurance Claim Queue Troubleshooting",
+    "summary": "Common fixes for claims stuck in pending.",
+    "content": "Verify payer mapping, claim code validation, and batch submission windows. Requeue failed claims from Billing > Claims."
+  },
+  {
+    "id": "kb-003",
+    "title": "Front Desk Intake Form Automation",
+    "summary": "Automate digital intake and reduce manual data entry.",
+    "content": "Enable intake templates, map required fields, and send pre-visit forms from Patient Communications."
+  },
+  {
+    "id": "kb-004",
+    "title": "Recall Reminder Best Practices",
+    "summary": "Build repeatable patient reminder workflows.",
+    "content": "Use multi-step SMS/email reminders at 30/14/3 day intervals and monitor no-show rates by provider."
+  },
+  {
+    "id": "kb-005",
+    "title": "Role-Based Access for Office Managers",
+    "summary": "Set permissions without exposing billing admin controls.",
+    "content": "Assign the Office Manager role and enable module-level permissions for schedules, reminders, and reporting."
+  }
+]

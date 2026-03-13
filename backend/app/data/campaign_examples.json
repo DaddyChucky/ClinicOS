@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Front Desk Recovery Sprint",
+    "hook": "Cut reminder workload by 40% in 30 days",
+    "channel": "email",
+    "audience": "office managers"
+  },
+  {
+    "name": "Billing Bottleneck Playbook",
+    "hook": "How top clinics reduce unpaid claims backlog",
+    "channel": "webinar",
+    "audience": "practice admins"
+  },
+  {
+    "name": "No-Show Risk Workflow",
+    "hook": "Recall workflow patterns that protect provider schedules",
+    "channel": "nurture",
+    "audience": "clinic owners"
+  }
+]

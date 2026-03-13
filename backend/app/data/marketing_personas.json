@@ -1,0 +1,17 @@
+[
+  {
+    "persona": "Office Manager",
+    "goals": ["reduce front-desk bottlenecks", "improve staff utilization"],
+    "pain_points": ["manual task switching", "reporting delays", "claim follow-up"]
+  },
+  {
+    "persona": "Practice Administrator",
+    "goals": ["improve operational margin", "standardize workflows across locations"],
+    "pain_points": ["inconsistent SOP adherence", "high no-show rates", "billing leakage"]
+  },
+  {
+    "persona": "Clinic Owner",
+    "goals": ["grow patient volume", "maintain quality of care"],
+    "pain_points": ["limited KPI visibility", "high admin overhead", "slow onboarding"]
+  }
+]

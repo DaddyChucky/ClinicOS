@@ -1,0 +1,70 @@
+[
+  {
+    "clinic_name": "Sunrise Family Dental",
+    "clinic_type": "dental",
+    "specialty": "family dentistry",
+    "size_estimate": "4-8 providers",
+    "location": "Austin, TX",
+    "existing_lead": true,
+    "pain_points": [
+      "manual recall reminders",
+      "insurance verification delays",
+      "high front-desk call volume"
+    ],
+    "signals": [
+      "recently expanded to second location",
+      "hiring treatment coordinator"
+    ]
+  },
+  {
+    "clinic_name": "North Harbor Pediatrics",
+    "clinic_type": "medical",
+    "specialty": "pediatrics",
+    "size_estimate": "10-20 providers",
+    "location": "Seattle, WA",
+    "existing_lead": false,
+    "pain_points": [
+      "long intake paperwork cycle",
+      "missed follow-up appointments",
+      "billing follow-up backlog"
+    ],
+    "signals": [
+      "new website appointment portal",
+      "actively recruiting operations manager"
+    ]
+  },
+  {
+    "clinic_name": "Lakeside Ortho Care",
+    "clinic_type": "dental",
+    "specialty": "orthodontics",
+    "size_estimate": "3-5 providers",
+    "location": "Denver, CO",
+    "existing_lead": false,
+    "pain_points": [
+      "treatment plan financing follow-up",
+      "manual scheduling adjustments",
+      "recall no-show spikes"
+    ],
+    "signals": [
+      "increased social proof reviews",
+      "opening weekend clinic hours"
+    ]
+  },
+  {
+    "clinic_name": "Evergreen Women’s Health",
+    "clinic_type": "medical",
+    "specialty": "obgyn",
+    "size_estimate": "8-15 providers",
+    "location": "Raleigh, NC",
+    "existing_lead": true,
+    "pain_points": [
+      "prior auth coordination delays",
+      "manual reminder workflows",
+      "front desk staff burnout"
+    ],
+    "signals": [
+      "recently merged with partner clinic",
+      "launched telehealth follow-ups"
+    ]
+  }
+]

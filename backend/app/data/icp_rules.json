@@ -1,0 +1,29 @@
+{
+  "clinic_type_weights": {
+    "dental": 28,
+    "medical": 24,
+    "multi-specialty": 22
+  },
+  "specialty_weights": {
+    "family dentistry": 18,
+    "orthodontics": 14,
+    "pediatrics": 14,
+    "obgyn": 12,
+    "general practice": 10
+  },
+  "size_weights": {
+    "3-5": 10,
+    "4-8": 14,
+    "6-12": 16,
+    "8-15": 14,
+    "10-20": 12
+  },
+  "high_value_pain_points": [
+    "manual recall",
+    "insurance verification",
+    "billing follow-up",
+    "front desk",
+    "manual reminder",
+    "intake paperwork"
+  ]
+}
