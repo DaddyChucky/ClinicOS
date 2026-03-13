@@ -1,4 +1,8 @@
-[View the write-up (PDF)](./WRITE_UP.pdf)
+# Quick Links
+
+- [Live application](https://growth-and-support-copilot.vercel.app) 🚀
+- [Read the write-up (PDF)](./WRITE_UP.pdf) 📖
+- [View the live demo](https://youtu.be/kb_XXm5SeAw) 🎥
 
 # ClinicOS
 
@@ -7,8 +11,6 @@
 ClinicOS brings support operations, patient growth strategy, and marketing planning into one connected product with two primary surfaces:
 - **Practice Desk** for clinic teams
 - **Operations Console** for internal operators and specialists
-
-Live application: `https://growth-and-support-copilot.vercel.app/`
 
 ## Product Surfaces
 
